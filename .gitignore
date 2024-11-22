@@ -1,7 +1,9 @@
 *.pt
 .venv
+*.zip
 
 /data
 /models
 /results
 /graphs
+/models_trained
